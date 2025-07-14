@@ -4,6 +4,25 @@
     <title>BOLG-TEST</title>
     <url>/Bolg/35966/</url>
     <content><![CDATA[BOLG-TEST
+这是一个测试页面！
+欢迎！
+很高兴你能来到我的博客，我只是一个普普通通的人吧了（或许吧）。在这里或许什么也没有，也或许你能找到对你有用的东西
+
+博客
+指令来源:Hexo
+创建博客
+hexo init [folder]cd &lt;folder&gt;npm install
+文章与页面
+hexo new page [name]创建新页面
+hexo new post [name]创建新文章
+文件与上传
+hexo generate 生成静态文件
+hexo server 启动服务
+hexo deploy 部署网站
+hexo clean 清除缓存文件 (db.json) 和已生成的静态文件 (public)
+
+网站测试
+当前什么也没有…
 ]]></content>
       <categories>
         <category>Bolg</category>
