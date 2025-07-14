@@ -10,6 +10,24 @@
     
     
     <url>
+        <loc>https://buxin.dpdns.org/gallery/scenery/</loc>
+        <lastmod>2025-07-14T13:19:57.928Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://buxin.dpdns.org/gallery/</loc>
+        <lastmod>2025-07-14T13:18:45.118Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    
+    
+    <url>
         <loc>https://buxin.dpdns.org/tags/</loc>
         <lastmod>2025-07-14T04:35:32.009Z</lastmod>
         <changefreq>weekly</changefreq>
